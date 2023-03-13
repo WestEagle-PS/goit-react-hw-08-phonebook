@@ -1,0 +1,21 @@
+[
+  {
+    "id": "1",
+    "text": "Home page",
+    "link": "/",
+    "private": false
+  },
+  {
+    "id": "2",
+    "text": "Phonebook page",
+    "link": "/phonebook",
+    "private": true
+  },
+
+  {
+    "id": "3",
+    "text": "My favorites page",
+    "link": "/favorite",
+    "private": true
+  }
+]
